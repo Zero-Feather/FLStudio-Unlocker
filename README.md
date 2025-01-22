@@ -1,5 +1,7 @@
 # FLStudio-Unlocker
 
+[中文](https://github.com/Zero-Feather/FLStudio-Unlocker/blob/main/README.md) | [English](https://github.com/Zero-Feather/FLStudio-Unlocker/blob/main/README_EN.md)
+
 这个项目的文件并不是我构建的，我也忘了它的原作者是谁，但考虑到有很多人拿着假的破解文件骗人，所以我决定把我存有的一份破解补丁上传。
 我不确定我是否违反了什么协议，如果有的话请指出，我会将项目删除。
 如果你知道这份破解补丁的原作者是谁，给提交给我，我将会把他添加在readme中，十分感谢。
